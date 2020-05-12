@@ -1,6 +1,6 @@
 {
-  "name": "my-project",
-  "short_name": "my-project",
+  "name": "preact-repo",
+  "short_name": "preact-repo",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
