@@ -27,7 +27,7 @@ export default class App extends Component {
 					<Profile path="/profile/:user" />
 				</Router>
 				<div>reabase</div>
-				<div>test1</div>
+				<div>1</div>
 				<div>test2</div>
 				<div>test3</div>
 			</div>
